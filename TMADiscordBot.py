@@ -358,7 +358,7 @@ def commandHandler(message):
                     yield from message.channel.send("nice.")
                 if roll == 420:
                     yield from message.channel.send(
-                        ":evergreen_tree::fire: 420 blaze it vape naysh \//\\ :fire::evergreen_tree:"
+                        ":evergreen_tree::fire::four_leaf_clover:  420 blaze it vape naysh \\//\\ :four_leaf_clover::fire::evergreen_tree:"
                     )
 
     except AttributeError:
